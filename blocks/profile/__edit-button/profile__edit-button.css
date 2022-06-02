@@ -5,12 +5,12 @@
   display: block;
   background-image: url(../../../../images/edit.svg);
   background-color: transparent;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #ffffff;
   background-repeat: no-repeat;
   background-position: center;
   border-color: #fff;
   margin-top: 15px;
- 
+
   box-sizing: border-box;
 }
 
