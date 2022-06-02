@@ -1,0 +1,16 @@
+.page {
+    width: 880px;
+    margin:0 auto;
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+
+}
+
+@media screen and (max-width: 544px) {
+    .page {
+        max-width: 320px;
+    }
+  }
