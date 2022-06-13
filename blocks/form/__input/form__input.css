@@ -1,4 +1,4 @@
-.popup__input_type_name {
+.form__input {
   height: 14px;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 890px) {
-  .popup__input_type_name {
+  .form__input {
     max-width: 238px;
     height: 26px;
   }
