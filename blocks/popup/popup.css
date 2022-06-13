@@ -1,5 +1,6 @@
 .popup {
-  position: fixed;
+  align-items: center;
+  justify-content: center;
   background-color: white;
   width: 430px;
   margin-top: 195px;
