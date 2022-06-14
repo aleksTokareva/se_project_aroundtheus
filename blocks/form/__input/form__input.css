@@ -1,6 +1,6 @@
 .form__input {
   height: 14px;
-  width: 358px
+  width: 358px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
