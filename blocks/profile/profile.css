@@ -11,5 +11,6 @@
     width: 100%;
     flex-direction: column;
     max-width: 282px;
+    margin-top: 42px;
   }
 }
